@@ -60,6 +60,10 @@
         "source": "C:\\Users\\beniw\\AndroidStudioProjects\\MyFirstApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
+        "merged": "C:\\Users\\beniw\\AndroidStudioProjects\\MyFirstApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_display_message.xml",
+        "source": "C:\\Users\\beniw\\AndroidStudioProjects\\MyFirstApp\\app\\src\\main\\res\\layout\\content_display_message.xml"
+    },
+    {
         "merged": "C:\\Users\\beniw\\AndroidStudioProjects\\MyFirstApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "C:\\Users\\beniw\\AndroidStudioProjects\\MyFirstApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
     },
@@ -94,6 +98,10 @@
     {
         "merged": "C:\\Users\\beniw\\AndroidStudioProjects\\MyFirstApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\beniw\\AndroidStudioProjects\\MyFirstApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\beniw\\AndroidStudioProjects\\MyFirstApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_display_message.xml",
+        "source": "C:\\Users\\beniw\\AndroidStudioProjects\\MyFirstApp\\app\\src\\main\\res\\layout\\activity_display_message.xml"
     },
     {
         "merged": "C:\\Users\\beniw\\AndroidStudioProjects\\MyFirstApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
